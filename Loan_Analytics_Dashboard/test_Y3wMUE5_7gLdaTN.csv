@@ -1,0 +1,501 @@
+Loan_ID,Borrower_Name,Loan_Amount,Interest_Rate,Term_Months,Grade,Employment_Length,Annual_Income,Debt_to_Income,Loan_Status
+LN1000,Brittany Davies,20795,5.58,60.0,E,10+ years,105939.0,7.95,Current
+LN1001,Linda Weaver,5860,14.27,48.0,F,1-2 years,87828.0,18.98,Charged Off
+LN1002,Thomas Johnson,43158,10.05,48.0,F,6-10 years,37239.0,36.85,Fully Paid
+LN1003,Vanessa Mitchell,49732,14.84,,D,<1 year,36710.0,33.28,Fully Paid
+LN1004,Nicholas Graves,16284,10.78,60.0,A,6-10 years,51384.0,12.56,Current
+LN1005,Chris Carroll,11265,15.22,60.0,D,10+ years,51038.0,21.33,Fully Paid
+LN1006,Steven Chen,21850,10.11,48.0,A,6-10 years,70846.0,33.59,Fully Paid
+LN1007,Lisa Moore,42194,8.91,60.0,A,6-10 years,117983.0,7.36,Current
+LN1008,Gregory Mendez,26962,12.44,36.0,B,6-10 years,97821.0,18.56,Current
+LN1009,Stacey Wright,49131,15.39,36.0,C,10+ years,67991.0,34.81,Fully Paid
+LN1010,Stephanie Jordan,21023,10.23,36.0,D,6-10 years,109057.0,19.14,Current
+LN1011,Carlos Jackson,46090,19.05,60.0,D,1-2 years,143193.0,7.72,Current
+LN1012,Anthony Gaines MD,6685,,60.0,B,10+ years,36971.0,23.99,Current
+LN1013,Dr. Jessica Mathis,5769,,60.0,B,6-10 years,59139.0,35.16,Charged Off
+LN1014,Steven Braun,7433,19.51,60.0,F,10+ years,115445.0,25.66,Fully Paid
+LN1015,Amy Mack,10311,,60.0,B,3-5 years,107067.0,12.92,Fully Paid
+LN1016,John Reeves,42819,,36.0,C,1-2 years,110257.0,18.45,Fully Paid
+LN1017,Carrie King,44188,13.53,48.0,A,6-10 years,114742.0,20.75,Charged Off
+LN1018,Monica Lawson,22568,13.64,36.0,D,3-5 years,67711.0,25.27,Fully Paid
+LN1019,Jessica Davis,24769,15.97,60.0,D,3-5 years,36530.0,31.58,Charged Off
+LN1020,Susan Harris,33693,6.92,36.0,B,10+ years,41116.0,8.46,Fully Paid
+LN1021,Frank Brennan,11396,8.75,60.0,A,3-5 years,95794.0,36.14,Fully Paid
+LN1022,Kimberly Rice,32480,13.71,60.0,,1-2 years,30282.0,5.43,Current
+LN1023,Mike Walker,46434,18.01,36.0,D,,109473.0,17.95,Fully Paid
+LN1024,Andrea Sanchez,30658,13.43,60.0,B,<1 year,31898.0,5.96,Fully Paid
+LN1025,Debbie Johnson,23942,8.58,48.0,F,1-2 years,34135.0,18.75,Current
+LN1026,Nancy Butler,23431,15.2,60.0,A,3-5 years,36629.0,23.4,Fully Paid
+LN1027,Melissa Meadows,7747,16.1,48.0,B,1-2 years,139472.0,22.91,Current
+LN1028,Timothy Norton,5189,8.57,48.0,F,10+ years,115120.0,10.8,Current
+LN1029,Vanessa Novak,24118,10.67,60.0,B,<1 year,149798.0,27.6,Fully Paid
+LN1030,Nancy Ortiz,40773,13.01,36.0,C,3-5 years,119087.0,6.57,Current
+LN1031,Aaron Montgomery,6899,12.45,48.0,B,<1 year,95031.0,31.67,Charged Off
+LN1032,Julie Mendez,6267,10.84,36.0,B,3-5 years,63380.0,38.13,Fully Paid
+LN1033,Shane Martinez,36551,9.46,48.0,F,10+ years,142507.0,16.89,Fully Paid
+LN1034,Mary Lucas,16394,6.5,60.0,B,<1 year,47071.0,23.1,Fully Paid
+LN1035,Maria Chapman,8556,5.8,60.0,E,,50074.0,18.26,Current
+LN1036,Wayne Howard,8890,19.38,48.0,B,3-5 years,,5.23,Fully Paid
+LN1037,Steven Hansen,46606,17.71,60.0,B,6-10 years,97843.0,18.51,Charged Off
+LN1038,Daniel Jackson,35740,10.32,48.0,A,<1 year,69901.0,32.71,Charged Off
+LN1039,Craig Herman,19502,19.35,60.0,D,6-10 years,41205.0,25.86,Charged Off
+LN1040,Bryan Perez,26777,15.15,36.0,,,85661.0,8.54,Fully Paid
+LN1041,Jennifer Stewart,15627,12.24,60.0,E,<1 year,35906.0,34.65,Fully Paid
+LN1042,Stephanie Alvarez,13792,12.4,36.0,C,10+ years,32591.0,23.59,Current
+LN1043,Paul Mueller,48323,6.25,60.0,F,6-10 years,92987.0,34.46,Fully Paid
+LN1044,Caleb Castro,48021,,36.0,A,6-10 years,93370.0,25.31,Fully Paid
+LN1045,Michaela Braun,13433,14.04,60.0,E,10+ years,110685.0,24.59,Fully Paid
+LN1046,Joan Fischer,48001,13.31,36.0,D,6-10 years,140454.0,8.68,Fully Paid
+LN1047,Susan White,16016,,48.0,,6-10 years,135487.0,10.86,Current
+LN1048,Jennifer Long,28897,19.19,48.0,E,6-10 years,84400.0,39.02,Fully Paid
+LN1049,Rebecca Marks,7612,16.72,36.0,,1-2 years,55150.0,13.0,Fully Paid
+LN1050,Patrick Perkins,28483,6.7,60.0,C,10+ years,61852.0,39.21,Fully Paid
+LN1051,Jonathan Richardson,22159,18.96,36.0,A,,72870.0,23.62,Current
+LN1052,John Schmitt,49974,,,A,10+ years,149796.0,9.75,Charged Off
+LN1053,Michael Brown,45994,19.94,48.0,F,3-5 years,82756.0,8.48,Fully Paid
+LN1054,Lisa Nelson,19541,5.84,60.0,C,3-5 years,145357.0,12.31,Current
+LN1055,Michael Kirby,40920,16.06,48.0,D,6-10 years,149052.0,37.4,Charged Off
+LN1056,Denise Lopez,31531,13.19,60.0,C,10+ years,86481.0,19.5,Current
+LN1057,Zachary White,6585,,60.0,A,10+ years,31283.0,18.84,Current
+LN1058,Deborah Jones,8943,19.53,60.0,A,10+ years,63691.0,15.96,Fully Paid
+LN1059,William Martinez,28939,15.32,36.0,D,1-2 years,31125.0,10.15,Fully Paid
+LN1060,George Ross,24457,17.55,36.0,B,3-5 years,97065.0,22.07,Fully Paid
+LN1061,Chase Perry,6021,18.0,48.0,B,10+ years,56170.0,9.55,Fully Paid
+LN1062,Anthony Gonzalez,16653,17.58,48.0,C,10+ years,38438.0,34.24,Current
+LN1063,Brian Watkins,48573,11.39,36.0,,1-2 years,50095.0,17.96,Fully Paid
+LN1064,Sarah Wu,18417,8.34,48.0,C,1-2 years,46154.0,18.12,Fully Paid
+LN1065,Nicole Sherman,45757,10.95,36.0,B,10+ years,38004.0,21.59,Current
+LN1066,George Ramos,14692,18.38,60.0,D,<1 year,39752.0,20.54,Charged Off
+LN1067,Laurie Jones,11873,7.2,48.0,B,10+ years,85426.0,39.82,Fully Paid
+LN1068,William Schultz,10675,12.7,48.0,C,10+ years,138896.0,24.09,Fully Paid
+LN1069,Scott Bell,5161,8.5,36.0,A,1-2 years,56819.0,8.09,Fully Paid
+LN1070,Haley Graham,42065,13.72,48.0,A,1-2 years,132168.0,26.24,Current
+LN1071,Robin Wall,31557,,48.0,B,10+ years,122051.0,10.31,Fully Paid
+LN1072,Hunter Nelson,38763,18.21,60.0,C,10+ years,54217.0,6.08,Fully Paid
+LN1073,Ms. Kelly Hamilton,37606,8.55,48.0,C,10+ years,118708.0,38.98,Charged Off
+LN1074,Robert Alvarez,16534,18.62,60.0,B,1-2 years,62994.0,32.07,Fully Paid
+LN1075,Jake Collier,34127,13.88,36.0,D,10+ years,45036.0,39.3,Charged Off
+LN1076,Erik Mendoza,45397,10.25,48.0,E,10+ years,107275.0,21.73,Fully Paid
+LN1077,Charles Madden,30851,15.62,60.0,D,6-10 years,127756.0,23.63,Fully Paid
+LN1078,Lisa Jones,6016,12.23,36.0,A,<1 year,79416.0,10.89,Current
+LN1079,Jenna Lopez,29253,10.67,,C,3-5 years,39587.0,13.64,Charged Off
+LN1080,Teresa Meyer,29276,15.58,36.0,A,<1 year,140053.0,34.35,Fully Paid
+LN1081,Joseph Bates,28247,8.73,,B,6-10 years,125665.0,17.47,Charged Off
+LN1082,Jennifer Freeman,29300,9.95,36.0,F,3-5 years,30645.0,33.94,Current
+LN1083,Tasha Christian,13529,11.52,36.0,A,,,29.82,Current
+LN1084,Chelsea Ruiz,22262,8.81,60.0,C,6-10 years,111835.0,11.2,Fully Paid
+LN1085,Lisa Turner,14268,11.08,36.0,C,10+ years,60090.0,22.76,Current
+LN1086,Jose Smith,26271,13.57,48.0,D,1-2 years,117489.0,28.71,Fully Paid
+LN1087,Roger Conner,17185,16.11,48.0,C,6-10 years,,13.23,Fully Paid
+LN1088,Sonia Williams,26243,16.51,60.0,A,1-2 years,141979.0,34.07,Fully Paid
+LN1089,Mrs. Lori White,44099,17.34,48.0,B,6-10 years,56475.0,24.07,Fully Paid
+LN1090,Laura Evans,13571,16.16,48.0,C,6-10 years,48888.0,10.78,Current
+LN1091,Katie Johnston,44976,15.22,48.0,A,1-2 years,73732.0,25.4,Fully Paid
+LN1092,Timothy Garcia,43044,8.56,36.0,B,3-5 years,111623.0,39.99,Fully Paid
+LN1093,Christopher Brown,45774,11.0,36.0,A,<1 year,76305.0,10.27,Current
+LN1094,James Fletcher,7568,12.17,48.0,A,10+ years,76037.0,33.59,Fully Paid
+LN1095,Stephanie Stewart,7027,6.24,60.0,B,6-10 years,39346.0,12.26,Fully Paid
+LN1096,Julie Lopez,7695,12.93,36.0,A,10+ years,30587.0,32.38,Fully Paid
+LN1097,Robert Brown,10258,11.55,60.0,C,1-2 years,42763.0,30.71,Fully Paid
+LN1098,Andrea Pierce,27002,17.03,48.0,D,,89165.0,15.52,Fully Paid
+LN1099,Dr. Brenda Turner,44504,19.67,48.0,E,1-2 years,137481.0,16.4,Charged Off
+LN1100,John Sullivan,38159,13.34,36.0,B,10+ years,99615.0,32.74,Fully Paid
+LN1101,Alec Ross,18986,9.84,,A,<1 year,66116.0,21.15,Fully Paid
+LN1102,Amanda Jensen,17666,5.65,36.0,A,<1 year,115751.0,30.58,Current
+LN1103,Yvonne Moore,43660,18.87,48.0,C,<1 year,121353.0,10.18,Charged Off
+LN1104,Melissa Hoffman,8561,18.79,48.0,D,<1 year,120301.0,34.84,Fully Paid
+LN1105,Anthony Perez,31854,8.79,36.0,A,<1 year,125648.0,29.88,Charged Off
+LN1106,Sean Kelly,43952,15.43,36.0,F,<1 year,55556.0,36.74,Fully Paid
+LN1107,Miranda Buckley,27662,6.13,36.0,A,,89042.0,9.63,Fully Paid
+LN1108,John Stone,13392,7.49,48.0,C,6-10 years,48099.0,25.76,Charged Off
+LN1109,William Bowen,35535,8.25,48.0,D,10+ years,139089.0,25.97,Fully Paid
+LN1110,Lisa Norton,18067,9.42,,E,<1 year,75096.0,17.37,Current
+LN1111,Jennifer Mahoney,28599,,36.0,D,1-2 years,101986.0,21.05,Fully Paid
+LN1112,James Terry,40222,15.45,,E,1-2 years,,6.33,Current
+LN1113,Zachary Arnold,16837,10.76,48.0,B,1-2 years,59009.0,31.11,Fully Paid
+LN1114,Sarah Lane,19039,,36.0,E,6-10 years,100969.0,24.23,Current
+LN1115,Jason Fisher,35818,18.73,60.0,A,10+ years,63866.0,7.02,Charged Off
+LN1116,Sierra Clark,24115,19.38,36.0,E,,135400.0,28.83,Current
+LN1117,Craig Christian,15965,5.87,60.0,C,3-5 years,114246.0,21.34,Fully Paid
+LN1118,Elizabeth Salas,29538,10.92,48.0,E,1-2 years,106975.0,6.21,Charged Off
+LN1119,John Gilbert,47530,,60.0,C,,71855.0,38.94,Charged Off
+LN1120,Mr. Thomas Wood,10056,10.03,48.0,C,<1 year,111557.0,38.22,Current
+LN1121,Amanda Hernandez,37482,7.55,36.0,C,<1 year,36416.0,22.95,Charged Off
+LN1122,Jodi Houston,13110,14.7,36.0,D,6-10 years,102516.0,8.28,Charged Off
+LN1123,Thomas Marshall,18773,10.82,36.0,A,10+ years,85915.0,31.41,Fully Paid
+LN1124,Lisa Alvarado,32266,8.44,60.0,A,3-5 years,48058.0,22.22,Fully Paid
+LN1125,Stacey Cummings,22412,,48.0,B,10+ years,,15.59,Fully Paid
+LN1126,Michael Myers,38270,10.41,36.0,A,6-10 years,70718.0,22.2,Fully Paid
+LN1127,Miguel Anderson,11910,8.9,36.0,E,<1 year,62602.0,23.29,Current
+LN1128,Troy Johnson,30446,11.8,48.0,B,10+ years,104658.0,24.69,Current
+LN1129,Meghan Smith,5206,5.48,36.0,F,10+ years,108112.0,20.44,Current
+LN1130,John Stevens,26518,9.2,48.0,B,<1 year,88067.0,26.2,Fully Paid
+LN1131,Michael Wilson,27361,11.17,48.0,A,3-5 years,57516.0,37.16,Current
+LN1132,Crystal Hernandez,28419,14.04,48.0,D,<1 year,117969.0,17.68,Current
+LN1133,Anna Walters,46523,9.06,48.0,D,10+ years,31089.0,30.4,Charged Off
+LN1134,Meghan Smith,27403,7.0,48.0,C,3-5 years,67346.0,36.31,Charged Off
+LN1135,Lisa Richardson,23141,6.14,60.0,,3-5 years,104663.0,20.96,Fully Paid
+LN1136,Kevin Hernandez,19820,19.11,36.0,D,<1 year,,20.52,Current
+LN1137,Kelsey Bennett,45342,11.25,60.0,B,10+ years,30155.0,26.07,Charged Off
+LN1138,Mary Nguyen,11374,13.72,36.0,F,6-10 years,,25.7,Fully Paid
+LN1139,Emily Patterson,6678,18.79,60.0,F,10+ years,106229.0,33.23,Fully Paid
+LN1140,Alyssa Martin,38827,,48.0,D,1-2 years,134648.0,21.68,Current
+LN1141,Mikayla Rivera,21198,18.15,36.0,A,6-10 years,68547.0,39.86,Current
+LN1142,Dr. Garrett White Jr.,14914,13.27,,D,,58795.0,7.08,Current
+LN1143,Michael Ramos,32890,7.47,60.0,A,6-10 years,85296.0,5.11,Charged Off
+LN1144,Tina Johnson,27299,11.17,60.0,A,3-5 years,51447.0,27.41,Fully Paid
+LN1145,Michael Parker,48585,16.66,36.0,B,3-5 years,66598.0,15.45,Fully Paid
+LN1146,Jennifer Robles DVM,48689,12.21,60.0,C,6-10 years,71814.0,13.41,Fully Paid
+LN1147,Meghan Torres,47557,19.78,60.0,E,3-5 years,120751.0,15.92,Fully Paid
+LN1148,Jason Barber,49020,10.65,60.0,D,,105330.0,13.96,Fully Paid
+LN1149,Sarah Gilmore,7693,16.24,48.0,D,1-2 years,128745.0,6.08,Fully Paid
+LN1150,Alan Jones,34467,10.89,48.0,,10+ years,117960.0,39.0,Fully Paid
+LN1151,Stacy Best,34723,17.44,60.0,B,10+ years,93278.0,12.73,Current
+LN1152,Samantha Ferguson,8627,13.54,60.0,B,1-2 years,85077.0,30.69,Fully Paid
+LN1153,Christina Frye,30939,5.95,48.0,F,6-10 years,142782.0,31.69,Current
+LN1154,Renee Moore,47941,5.55,48.0,A,<1 year,132932.0,37.52,Charged Off
+LN1155,Brian Soto,26834,7.01,36.0,E,<1 year,101906.0,6.07,Fully Paid
+LN1156,Ryan Baker,23047,5.21,36.0,C,<1 year,39528.0,35.52,Fully Paid
+LN1157,Bryan Herring,31105,6.13,48.0,B,1-2 years,123812.0,23.45,Fully Paid
+LN1158,Douglas Rose,15230,15.38,60.0,D,1-2 years,80100.0,27.14,Fully Paid
+LN1159,Brett Thomas,20707,13.02,60.0,C,3-5 years,139869.0,27.56,Charged Off
+LN1160,Hannah Daniel,26976,16.25,60.0,E,<1 year,38179.0,33.69,Fully Paid
+LN1161,Thomas Norris,49262,18.7,60.0,F,6-10 years,78781.0,16.67,Fully Paid
+LN1162,Matthew Burton,28776,13.78,36.0,B,6-10 years,85267.0,30.66,Fully Paid
+LN1163,Elizabeth Ochoa,35080,15.89,48.0,B,<1 year,112379.0,23.5,Current
+LN1164,Amanda Reynolds,6306,16.36,60.0,C,<1 year,53952.0,32.77,Current
+LN1165,Paul Cochran,11776,10.67,36.0,F,<1 year,83798.0,39.67,Current
+LN1166,Timothy Doyle,32251,8.62,60.0,B,1-2 years,,12.02,Fully Paid
+LN1167,Stacey Taylor DVM,14474,8.08,48.0,C,1-2 years,140434.0,39.81,Current
+LN1168,Jessica Lewis,45294,8.77,36.0,C,1-2 years,80939.0,8.14,Current
+LN1169,Susan Alexander,26959,9.12,48.0,D,10+ years,59516.0,5.08,Charged Off
+LN1170,Garrett Keller,10530,8.11,48.0,A,6-10 years,86526.0,6.55,Current
+LN1171,Kevin Gomez,34320,18.17,36.0,D,6-10 years,40449.0,16.96,Fully Paid
+LN1172,Olivia Sanford,8748,16.35,,F,3-5 years,80290.0,27.15,Current
+LN1173,Matthew Alexander,36968,5.7,36.0,A,1-2 years,116661.0,7.42,Current
+LN1174,Jeremy King,37562,9.03,,B,10+ years,102954.0,5.2,Fully Paid
+LN1175,Eugene Harrington,18545,5.33,36.0,F,10+ years,52746.0,37.8,Fully Paid
+LN1176,John Jones,5663,12.47,36.0,,6-10 years,97990.0,33.77,Current
+LN1177,Tonya Gonzales,39766,12.14,36.0,E,1-2 years,88810.0,33.32,Fully Paid
+LN1178,Kelsey Dillon,12994,17.47,60.0,C,3-5 years,148362.0,35.95,Charged Off
+LN1179,Amanda Jefferson,33021,9.62,48.0,B,1-2 years,113297.0,29.5,Current
+LN1180,Kevin Espinoza,35303,17.25,36.0,E,<1 year,45223.0,8.65,Charged Off
+LN1181,Tommy Harding,8304,19.52,60.0,B,,102237.0,18.97,Fully Paid
+LN1182,Andrew Kline,44353,6.33,60.0,C,<1 year,32597.0,30.31,Charged Off
+LN1183,Jennifer Rodgers MD,22675,16.88,60.0,,<1 year,95677.0,14.81,Fully Paid
+LN1184,Joseph Wilkins,49417,13.85,48.0,C,3-5 years,32659.0,29.06,Charged Off
+LN1185,Ryan Miles,28938,12.2,36.0,A,,116516.0,5.86,Fully Paid
+LN1186,Corey Proctor,28664,11.31,60.0,B,,104567.0,15.71,Charged Off
+LN1187,Donna Kennedy,6636,16.77,48.0,F,<1 year,45037.0,24.22,Charged Off
+LN1188,Craig Middleton,25080,14.59,48.0,B,1-2 years,76738.0,27.12,Current
+LN1189,Bryan Cook,32728,17.08,48.0,D,,133965.0,25.2,Charged Off
+LN1190,Michael Wallace,31736,18.55,60.0,B,6-10 years,101678.0,29.42,Charged Off
+LN1191,Robert Campbell,33673,14.26,36.0,D,10+ years,42109.0,5.21,Charged Off
+LN1192,Jane Cunningham,42505,19.71,60.0,A,6-10 years,52010.0,8.53,Fully Paid
+LN1193,Thomas Beck,5854,14.12,60.0,,3-5 years,38787.0,35.41,Charged Off
+LN1194,Amber Booth,29548,14.55,36.0,,,,28.86,Fully Paid
+LN1195,Leslie Maxwell,43623,13.32,36.0,B,10+ years,38472.0,8.95,Current
+LN1196,John Gray,12392,6.37,36.0,A,3-5 years,145111.0,34.47,Fully Paid
+LN1197,Ryan Johnson,26556,15.9,48.0,A,1-2 years,53383.0,13.48,Fully Paid
+LN1198,Daniel Hughes,43559,13.21,36.0,C,<1 year,91709.0,21.74,Charged Off
+LN1199,Kristen Wilson,31309,11.76,60.0,B,6-10 years,99785.0,10.08,Fully Paid
+LN1200,Richard Lewis,26919,18.66,36.0,E,<1 year,143253.0,29.85,Fully Paid
+LN1201,Robert Smith,9931,9.47,60.0,B,1-2 years,64518.0,28.34,Charged Off
+LN1202,Christopher Mcclain,37970,12.85,48.0,B,10+ years,83909.0,12.39,Charged Off
+LN1203,Michael Smith,49215,15.46,60.0,C,10+ years,48351.0,35.22,Current
+LN1204,Kimberly Rivera,17688,16.95,60.0,D,10+ years,99624.0,19.05,Fully Paid
+LN1205,Karina Buchanan,30342,11.89,36.0,A,6-10 years,83330.0,15.24,Charged Off
+LN1206,Rebecca Wu,42157,17.63,36.0,A,3-5 years,45282.0,10.33,Fully Paid
+LN1207,Jose Wiley,7327,16.53,60.0,A,3-5 years,114866.0,14.32,Charged Off
+LN1208,Ryan Chang,45772,5.99,36.0,D,<1 year,137945.0,5.77,Charged Off
+LN1209,Bruce Beck,45545,5.69,48.0,D,6-10 years,51778.0,25.41,Charged Off
+LN1210,Chad Rodriguez,5197,14.31,48.0,C,10+ years,54264.0,34.48,Fully Paid
+LN1211,Michael Nichols,28509,10.21,36.0,E,10+ years,89675.0,24.21,Fully Paid
+LN1212,Joseph Thomas,39698,8.14,48.0,E,1-2 years,35075.0,12.67,Fully Paid
+LN1213,Beverly Smith,49542,13.69,36.0,C,1-2 years,105948.0,6.18,Fully Paid
+LN1214,Jessica Peterson,20087,10.12,,E,10+ years,78454.0,12.51,Fully Paid
+LN1215,Erica Rodriguez,27671,13.06,60.0,B,10+ years,58365.0,19.56,Charged Off
+LN1216,Jonathan King,30184,,,A,6-10 years,102766.0,31.59,Fully Paid
+LN1217,Justin Ford,32848,13.77,36.0,B,3-5 years,78200.0,11.57,Current
+LN1218,James Jackson,47107,11.0,36.0,A,1-2 years,41002.0,30.19,Fully Paid
+LN1219,Joanna Carpenter,25666,15.47,48.0,C,3-5 years,43947.0,35.34,Current
+LN1220,Michael Parsons,49357,7.7,60.0,F,6-10 years,109222.0,20.89,Charged Off
+LN1221,Kimberly Cline,20708,15.45,48.0,A,10+ years,124840.0,33.75,Fully Paid
+LN1222,Stephanie Figueroa,31370,11.17,60.0,A,3-5 years,146219.0,24.41,Fully Paid
+LN1223,Donna Watson,7811,18.11,36.0,C,10+ years,108610.0,27.3,Charged Off
+LN1224,Robert Chapman,11546,12.73,60.0,F,10+ years,82142.0,23.42,Fully Paid
+LN1225,Sandra Avila,39754,19.6,48.0,B,<1 year,86307.0,21.21,Current
+LN1226,Jason Schneider,35206,14.03,36.0,C,3-5 years,34493.0,13.21,Charged Off
+LN1227,Paula Rivas,46106,8.36,48.0,A,3-5 years,80085.0,15.61,Current
+LN1228,Angela Thompson,16411,17.33,48.0,A,10+ years,64228.0,15.15,Fully Paid
+LN1229,Cassandra Santiago,7911,10.18,,F,6-10 years,109676.0,24.72,Current
+LN1230,Don Hamilton,6734,10.21,48.0,F,<1 year,81875.0,9.2,Charged Off
+LN1231,Lisa Moss,23227,5.48,60.0,A,10+ years,61655.0,37.09,Current
+LN1232,Steven Stanley,13680,13.23,36.0,F,,73472.0,30.22,Fully Paid
+LN1233,Chad Williams,24360,13.02,60.0,C,1-2 years,79437.0,19.05,Charged Off
+LN1234,Brandon Harper,23343,10.34,36.0,E,<1 year,79416.0,10.55,Fully Paid
+LN1235,James Carson,10759,18.41,60.0,,6-10 years,89711.0,35.87,Current
+LN1236,Carolyn Hunt,28078,6.93,48.0,C,10+ years,,33.83,Fully Paid
+LN1237,Craig Hayes,40153,9.95,60.0,C,3-5 years,107175.0,30.26,Current
+LN1238,Brenda Riley,16111,9.82,60.0,D,<1 year,94307.0,14.5,Fully Paid
+LN1239,Jessica Gallagher,42504,6.38,36.0,A,6-10 years,142728.0,19.09,Current
+LN1240,Paul Taylor,6802,12.22,48.0,A,3-5 years,76733.0,8.6,Current
+LN1241,Rachel Edwards,13155,15.32,60.0,B,1-2 years,125028.0,11.62,Current
+LN1242,Joseph Vega,13120,12.67,48.0,D,1-2 years,146450.0,32.41,Charged Off
+LN1243,Benjamin Ross III,44384,7.35,60.0,B,3-5 years,41240.0,30.03,Fully Paid
+LN1244,Megan Alexander,26918,10.66,60.0,D,<1 year,128234.0,25.77,Current
+LN1245,Dominique Taylor,25445,5.04,48.0,F,1-2 years,122493.0,36.35,Fully Paid
+LN1246,Kimberly Frazier,35306,18.02,60.0,A,10+ years,128344.0,25.41,Charged Off
+LN1247,Katelyn Cline,21646,6.27,48.0,D,3-5 years,101363.0,21.34,Charged Off
+LN1248,Jacob Reynolds,36065,13.96,60.0,B,3-5 years,62762.0,16.91,Current
+LN1249,Jonathon Robinson,30199,19.79,36.0,E,1-2 years,38259.0,37.92,Fully Paid
+LN1250,Dana Fernandez,46976,13.05,48.0,A,<1 year,80139.0,7.9,Charged Off
+LN1251,Mark Lucas,21371,18.86,60.0,D,10+ years,44849.0,37.58,Current
+LN1252,Jasmine Hunt,16835,8.54,60.0,E,<1 year,111768.0,33.94,Fully Paid
+LN1253,Tracy Foster,7049,16.4,36.0,F,6-10 years,136108.0,9.55,Current
+LN1254,Christopher Reed,36616,12.97,48.0,D,6-10 years,119709.0,24.77,Fully Paid
+LN1255,Martha Fischer,43191,15.81,60.0,C,1-2 years,84869.0,35.33,Fully Paid
+LN1256,Diana Freeman,25932,5.94,36.0,C,1-2 years,93095.0,25.01,Fully Paid
+LN1257,Lawrence Holland,34855,7.22,60.0,E,1-2 years,147886.0,36.75,Fully Paid
+LN1258,Daniel Werner,12158,,48.0,C,6-10 years,100910.0,38.0,Current
+LN1259,Robert Lam,48016,15.31,60.0,A,<1 year,116710.0,19.78,Fully Paid
+LN1260,Linda Roberts,12400,17.67,60.0,F,<1 year,53567.0,18.21,Fully Paid
+LN1261,Kaitlyn Hubbard,47642,16.24,60.0,D,1-2 years,65292.0,37.77,Fully Paid
+LN1262,Jessica Durham,20151,5.46,60.0,D,10+ years,104813.0,28.63,Charged Off
+LN1263,Kelsey Kennedy,6154,18.01,36.0,B,<1 year,127136.0,9.06,Charged Off
+LN1264,Kelsey Rose,9499,10.31,36.0,D,6-10 years,81631.0,6.48,Fully Paid
+LN1265,Joseph David,11295,10.96,48.0,B,3-5 years,39885.0,24.76,Fully Paid
+LN1266,Jennifer Smith,17183,6.57,36.0,D,3-5 years,89659.0,37.56,Current
+LN1267,James Sheppard,34299,16.06,36.0,A,3-5 years,84306.0,34.55,Fully Paid
+LN1268,Michelle Hicks,17874,7.73,48.0,D,10+ years,96314.0,28.65,Fully Paid
+LN1269,Jasmine Sullivan,37711,13.46,36.0,F,1-2 years,95087.0,9.87,Fully Paid
+LN1270,Ana Miller,10539,17.61,36.0,A,6-10 years,59165.0,13.9,Current
+LN1271,Benjamin Ramirez,47405,6.34,48.0,F,10+ years,88929.0,35.64,Fully Paid
+LN1272,Dr. Jennifer Williams,7557,13.03,48.0,B,6-10 years,97028.0,11.4,Charged Off
+LN1273,Micheal Caldwell,43360,8.5,48.0,E,6-10 years,,14.75,Fully Paid
+LN1274,Thomas Flores,21482,10.14,60.0,,1-2 years,79812.0,9.54,Current
+LN1275,Wayne Mills,7200,12.11,60.0,C,3-5 years,80500.0,28.66,Fully Paid
+LN1276,Robert Castaneda,7961,10.33,48.0,D,1-2 years,109151.0,38.04,Current
+LN1277,Caroline Lester,26357,14.73,48.0,E,10+ years,88643.0,14.41,Fully Paid
+LN1278,Veronica Vang MD,16969,12.19,48.0,B,10+ years,74900.0,21.64,Fully Paid
+LN1279,Justin Johnson,7869,,,B,10+ years,72946.0,27.2,Current
+LN1280,Michael Hines,33643,16.05,60.0,D,1-2 years,37851.0,39.98,Fully Paid
+LN1281,Nicholas Hatfield,29736,13.37,36.0,E,6-10 years,46288.0,8.67,Current
+LN1282,Diane Miller,43467,13.8,36.0,,6-10 years,102692.0,22.45,Current
+LN1283,Anne Higgins,28328,13.47,48.0,D,<1 year,97580.0,18.48,Current
+LN1284,Carolyn Hernandez,30876,10.68,60.0,B,10+ years,37368.0,35.3,Fully Paid
+LN1285,Kelsey Morales,26295,10.06,60.0,E,6-10 years,,21.66,Current
+LN1286,John Campos,8987,18.49,60.0,A,<1 year,126136.0,8.88,Fully Paid
+LN1287,Brian Webb,27399,,48.0,C,6-10 years,76403.0,27.2,Current
+LN1288,Mark Thompson,38986,8.67,36.0,A,10+ years,121170.0,31.98,Charged Off
+LN1289,Brian Brown,25880,12.47,48.0,B,3-5 years,39168.0,5.1,Current
+LN1290,Trevor Griffin,9735,9.96,36.0,B,10+ years,116497.0,35.06,Fully Paid
+LN1291,Bob Paul,49064,19.01,36.0,B,1-2 years,79879.0,11.51,Charged Off
+LN1292,Ivan Jackson,9555,5.11,48.0,D,6-10 years,89871.0,24.32,Fully Paid
+LN1293,Anthony Rodriguez PhD,46914,8.38,36.0,B,6-10 years,139632.0,19.55,Current
+LN1294,Noah Johnson,45818,10.48,36.0,B,1-2 years,141623.0,30.19,Fully Paid
+LN1295,Brian Gill,24830,12.32,60.0,B,,119388.0,17.99,Charged Off
+LN1296,Douglas Bolton,22429,17.76,36.0,B,3-5 years,128646.0,35.44,Current
+LN1297,Isabella Miller,11893,6.32,48.0,B,6-10 years,62174.0,30.57,Charged Off
+LN1298,Amanda Bell,19373,17.09,48.0,A,6-10 years,129751.0,27.67,Fully Paid
+LN1299,Greg Lewis,8436,5.83,36.0,C,3-5 years,122491.0,32.87,Charged Off
+LN1300,Laura Buckley,13754,17.63,60.0,D,<1 year,36581.0,31.39,Fully Paid
+LN1301,Tamara Yang,15677,5.77,,C,3-5 years,140155.0,6.26,Fully Paid
+LN1302,Brittany Dean,10895,,36.0,C,10+ years,101853.0,18.82,Fully Paid
+LN1303,Michael Campbell,24738,15.45,36.0,B,6-10 years,94046.0,37.58,Fully Paid
+LN1304,Krista Smith,35746,19.96,48.0,E,1-2 years,79678.0,9.4,Fully Paid
+LN1305,Gina Patterson,37352,18.45,36.0,C,10+ years,138392.0,30.8,Current
+LN1306,Alexandra Smith,44790,13.64,60.0,C,6-10 years,141250.0,39.11,Fully Paid
+LN1307,Aaron Burton,46919,18.76,36.0,A,3-5 years,56649.0,6.83,Fully Paid
+LN1308,Kristy Donaldson,10600,,48.0,B,10+ years,118668.0,28.88,Current
+LN1309,Melissa Smith,34124,19.63,48.0,,6-10 years,112325.0,21.39,Fully Paid
+LN1310,Jose Flynn,32643,12.36,48.0,B,<1 year,44567.0,25.27,Charged Off
+LN1311,Mitchell Roth,45764,15.84,48.0,C,<1 year,,7.99,Current
+LN1312,Kelly Bell,14007,17.31,48.0,C,1-2 years,119906.0,6.51,Current
+LN1313,Angela Cummings,42410,15.78,36.0,C,6-10 years,138069.0,28.34,Current
+LN1314,Julia Park,49080,13.03,36.0,D,<1 year,126019.0,33.82,Current
+LN1315,Carlos Carey,45447,12.15,36.0,E,3-5 years,91944.0,32.37,Current
+LN1316,Jessica Hunter,13208,17.58,36.0,,6-10 years,148428.0,24.03,Fully Paid
+LN1317,Chris Richardson,23589,8.08,48.0,F,3-5 years,108002.0,8.5,Current
+LN1318,Rebecca Smith,48484,19.52,60.0,A,3-5 years,58803.0,29.08,Fully Paid
+LN1319,Daniel Vasquez,22453,15.66,36.0,A,<1 year,48230.0,13.47,Current
+LN1320,Kristin Sanders,41212,7.99,60.0,A,6-10 years,47862.0,36.89,Fully Paid
+LN1321,April Garcia,48525,16.04,36.0,,10+ years,73355.0,34.34,Charged Off
+LN1322,Christina Thomas,37635,12.95,36.0,E,<1 year,61259.0,29.83,Fully Paid
+LN1323,Nicole Thomas,38828,15.61,60.0,B,<1 year,129075.0,38.21,Current
+LN1324,Brian Rogers,23711,16.52,48.0,F,6-10 years,117445.0,6.1,Fully Paid
+LN1325,Peter Gilbert Jr.,8420,6.31,36.0,A,,,30.77,Current
+LN1326,Isabella Robinson,36216,12.59,36.0,F,3-5 years,144604.0,16.56,Current
+LN1327,David Parker,5301,,36.0,B,6-10 years,,36.71,Fully Paid
+LN1328,Michelle Lynch,5699,9.81,60.0,A,3-5 years,41093.0,14.33,Current
+LN1329,Elizabeth Barry,5190,13.91,48.0,C,<1 year,76571.0,30.37,Current
+LN1330,April Taylor,15492,10.54,60.0,B,1-2 years,30193.0,35.72,Charged Off
+LN1331,Daniel Walker,40743,11.81,60.0,B,10+ years,,6.46,Fully Paid
+LN1332,John Sanders,11102,13.23,,B,<1 year,47569.0,18.92,Fully Paid
+LN1333,Larry Richmond,24778,13.23,60.0,E,6-10 years,147082.0,31.68,Fully Paid
+LN1334,Laura Moreno,31641,8.03,48.0,C,10+ years,41190.0,20.92,Fully Paid
+LN1335,Adam Hayden,39584,15.27,36.0,B,1-2 years,92824.0,14.35,Current
+LN1336,Amanda Moore,37745,6.32,48.0,C,1-2 years,72752.0,12.69,Fully Paid
+LN1337,Susan Webb,28093,7.08,36.0,D,3-5 years,62327.0,9.6,Current
+LN1338,Joseph Tyler,5569,5.04,60.0,B,,72070.0,35.0,Fully Paid
+LN1339,Erin Jensen,43210,6.75,60.0,B,3-5 years,115925.0,25.14,Charged Off
+LN1340,Jessica Hill,39663,12.1,36.0,A,<1 year,70197.0,7.67,Current
+LN1341,Connie Ellison,41631,14.09,60.0,A,10+ years,32261.0,18.39,Current
+LN1342,Chad Houston,12455,16.91,48.0,D,<1 year,148424.0,17.87,Fully Paid
+LN1343,James Fischer,9014,6.6,36.0,A,3-5 years,,11.36,Fully Paid
+LN1344,Teresa Gutierrez,16093,17.76,60.0,C,10+ years,56512.0,20.24,Fully Paid
+LN1345,Melvin Simon Jr.,23070,16.19,36.0,D,3-5 years,36716.0,16.62,Fully Paid
+LN1346,Donald Wolf,40777,,48.0,A,10+ years,116795.0,16.96,Fully Paid
+LN1347,Joshua Smith,21538,18.99,48.0,C,3-5 years,58933.0,30.87,Fully Paid
+LN1348,Heather Davis,15729,19.86,60.0,B,1-2 years,137225.0,12.81,Fully Paid
+LN1349,Jamie Curtis,39177,8.08,48.0,F,3-5 years,,27.47,Current
+LN1350,Ian Valdez,5784,10.69,36.0,C,1-2 years,,24.97,Fully Paid
+LN1351,James Ruiz,32751,18.9,48.0,E,3-5 years,142082.0,24.88,Fully Paid
+LN1352,Kimberly Moss,45864,15.82,36.0,C,10+ years,,28.21,Fully Paid
+LN1353,Lisa Jones,45328,5.72,36.0,A,10+ years,59033.0,24.19,Current
+LN1354,Tracy Warner,17533,16.72,48.0,C,10+ years,54000.0,35.77,Current
+LN1355,Renee Brown,45111,17.42,60.0,F,6-10 years,141032.0,28.65,Charged Off
+LN1356,Melinda Arroyo,44974,16.26,48.0,C,<1 year,105868.0,24.14,Current
+LN1357,Susan Perez,10801,16.99,,E,10+ years,72604.0,34.04,Fully Paid
+LN1358,Chad Thompson MD,24190,17.38,36.0,E,1-2 years,98336.0,26.22,Charged Off
+LN1359,Jack Arnold,43754,7.8,,B,10+ years,,15.19,Fully Paid
+LN1360,Robin Spencer,34592,8.54,60.0,B,,125655.0,12.25,Fully Paid
+LN1361,Justin Taylor,15647,14.51,60.0,C,1-2 years,103869.0,10.33,Current
+LN1362,Kathleen Martinez,13716,18.62,36.0,B,6-10 years,35410.0,36.48,Current
+LN1363,John Phillips,28355,9.74,36.0,E,1-2 years,113375.0,29.85,Fully Paid
+LN1364,Nathan Terrell,27009,13.82,60.0,F,3-5 years,86044.0,37.81,Charged Off
+LN1365,Kenneth Smith,29376,15.24,48.0,B,<1 year,93315.0,26.12,Charged Off
+LN1366,Casey Gibson,9780,11.78,,B,<1 year,126055.0,21.57,Fully Paid
+LN1367,Lonnie Gallegos,7368,15.71,36.0,D,6-10 years,101344.0,7.09,Fully Paid
+LN1368,Kurt Richards MD,17039,18.5,60.0,B,<1 year,36796.0,28.51,Fully Paid
+LN1369,Alexandria Cruz,11655,14.36,48.0,E,6-10 years,116716.0,25.38,Fully Paid
+LN1370,Cristina Smith,45941,13.1,60.0,B,6-10 years,84245.0,39.66,Fully Paid
+LN1371,Jack Hoffman,9495,11.58,48.0,D,6-10 years,73056.0,13.37,Fully Paid
+LN1372,Anthony Guerrero,15893,13.66,48.0,A,<1 year,47709.0,23.58,Fully Paid
+LN1373,Darrell Fleming,30547,10.33,48.0,,6-10 years,,27.78,Current
+LN1374,Keith Knight,27386,10.87,36.0,C,<1 year,88557.0,27.56,Charged Off
+LN1375,William Armstrong,18403,12.98,60.0,C,6-10 years,47543.0,24.65,Current
+LN1376,Lindsey Dominguez,37097,6.0,60.0,A,10+ years,67418.0,32.19,Fully Paid
+LN1377,Sean Hamilton,18121,,48.0,D,6-10 years,124611.0,12.17,Current
+LN1378,Dustin Jackson,15966,13.14,36.0,E,1-2 years,133291.0,30.4,Current
+LN1379,Steven Brown,38621,,36.0,B,6-10 years,143504.0,26.69,Charged Off
+LN1380,Gregory Stanley,33312,9.99,60.0,A,3-5 years,133001.0,36.36,Fully Paid
+LN1381,Makayla Arnold,27677,15.96,36.0,A,6-10 years,126038.0,34.65,Current
+LN1382,David Santiago,36289,15.41,36.0,C,1-2 years,46724.0,16.03,Fully Paid
+LN1383,Meghan Williams,36024,7.5,48.0,C,1-2 years,33828.0,14.67,Fully Paid
+LN1384,Anne Rios,47675,18.18,36.0,C,<1 year,146656.0,39.36,Charged Off
+LN1385,Kevin Barnes,9777,12.43,48.0,B,10+ years,47087.0,23.45,Charged Off
+LN1386,Felicia Cook,34749,16.12,60.0,B,6-10 years,42605.0,36.72,Fully Paid
+LN1387,Gary Holden,20338,13.6,36.0,C,<1 year,61337.0,10.74,Current
+LN1388,Rebecca Stephens,7491,19.97,,C,10+ years,35482.0,27.5,Charged Off
+LN1389,Sean Jennings,32236,16.29,60.0,F,6-10 years,95333.0,33.35,Fully Paid
+LN1390,Kevin Flores,19599,15.6,,A,3-5 years,122541.0,38.16,Current
+LN1391,Charles Cox,24508,16.68,36.0,D,6-10 years,118296.0,16.81,Fully Paid
+LN1392,Katherine Graves,8051,7.15,60.0,B,1-2 years,80952.0,30.37,Current
+LN1393,Denise Brown,26606,8.07,36.0,B,1-2 years,35463.0,23.86,Charged Off
+LN1394,Heather Dyer,26699,15.71,48.0,D,3-5 years,142164.0,7.12,Fully Paid
+LN1395,Kimberly Johnson,5876,12.41,48.0,D,,100448.0,29.15,Current
+LN1396,Stacie White,37093,16.32,36.0,F,10+ years,34648.0,29.15,Charged Off
+LN1397,Katherine Roberts,9142,6.54,60.0,A,6-10 years,63623.0,37.57,Current
+LN1398,Steven Abbott,20202,13.05,36.0,A,1-2 years,89156.0,22.41,Current
+LN1399,Kimberly Garcia,44734,10.68,36.0,D,<1 year,65634.0,13.06,Current
+LN1400,Steven Garcia,12079,11.86,60.0,C,3-5 years,74602.0,6.56,Charged Off
+LN1401,Thomas Wilson,12987,14.06,60.0,B,1-2 years,144598.0,19.55,Current
+LN1402,James Larson,44567,12.53,48.0,A,3-5 years,79334.0,15.57,Charged Off
+LN1403,Jason Salinas,33940,13.1,60.0,A,6-10 years,98648.0,31.64,Fully Paid
+LN1404,Ashley Lopez,42233,12.3,48.0,E,10+ years,52054.0,17.4,Current
+LN1405,Jennifer Lewis,22019,11.13,60.0,A,1-2 years,100028.0,38.22,Fully Paid
+LN1406,Shelly Saunders,23077,16.58,36.0,B,1-2 years,52207.0,38.68,Current
+LN1407,Lisa Thomas,31258,5.18,48.0,B,6-10 years,110650.0,26.73,Current
+LN1408,Melanie Sims,26136,13.98,48.0,B,<1 year,129821.0,37.5,Current
+LN1409,Debra Graham MD,13311,13.48,48.0,A,10+ years,111554.0,31.63,Charged Off
+LN1410,Adam Graham,22214,15.74,36.0,C,1-2 years,51386.0,24.14,Current
+LN1411,Eric Stark,19098,13.99,36.0,A,10+ years,113276.0,11.31,Fully Paid
+LN1412,Mr. John Wallace,33251,17.4,,E,1-2 years,89518.0,21.05,Current
+LN1413,Joseph Hill,42945,19.39,36.0,,10+ years,82781.0,24.63,Fully Paid
+LN1414,Matthew Quinn,30945,10.14,,C,3-5 years,82780.0,35.24,Fully Paid
+LN1415,Ariana Shannon,30316,8.41,48.0,E,1-2 years,91440.0,21.85,Fully Paid
+LN1416,Angelica Davis,37217,11.35,36.0,D,10+ years,74199.0,36.42,Charged Off
+LN1417,Aaron Gonzalez,13308,9.32,48.0,C,<1 year,91035.0,28.6,Charged Off
+LN1418,Brenda Lee,10949,14.22,36.0,B,3-5 years,38210.0,9.79,Current
+LN1419,Dr. Stephanie Mejia,6150,18.68,60.0,B,3-5 years,74363.0,39.82,Fully Paid
+LN1420,Mary Grant,28944,7.09,48.0,D,<1 year,141175.0,23.45,Fully Paid
+LN1421,Sara Blanchard,39699,6.51,60.0,F,10+ years,108279.0,18.72,Fully Paid
+LN1422,Jason Holder,14204,8.84,48.0,D,6-10 years,90348.0,28.07,Fully Paid
+LN1423,Joseph Perry,6081,15.89,60.0,C,<1 year,85284.0,8.81,Charged Off
+LN1424,Darin Simpson,34305,13.89,36.0,,10+ years,137628.0,27.28,Fully Paid
+LN1425,Lori Rosario,21896,6.53,36.0,C,<1 year,139835.0,22.44,Fully Paid
+LN1426,Lisa Chapman,12805,18.78,36.0,A,<1 year,102124.0,19.23,Fully Paid
+LN1427,Michelle Anderson,10237,16.85,48.0,C,,98847.0,38.36,Fully Paid
+LN1428,Ms. Laura Stephens,25056,5.35,60.0,F,10+ years,52432.0,23.29,Fully Paid
+LN1429,Benjamin Collins,8343,14.77,36.0,A,6-10 years,94089.0,12.67,Fully Paid
+LN1430,Thomas Nelson,18500,16.57,60.0,D,1-2 years,85398.0,21.06,Current
+LN1431,Shirley Huang,34375,10.62,60.0,B,<1 year,,37.18,Current
+LN1432,Robert Morrow,14662,6.03,36.0,C,<1 year,33321.0,11.16,Charged Off
+LN1433,Ronald Smith,21964,6.16,36.0,,<1 year,111348.0,12.49,Current
+LN1434,Matthew Sandoval,13130,6.56,60.0,C,10+ years,67383.0,5.46,Fully Paid
+LN1435,Daniel Willis,24531,17.61,36.0,D,10+ years,143816.0,5.5,Charged Off
+LN1436,Tom Chandler,6679,18.66,36.0,B,1-2 years,108682.0,34.03,Current
+LN1437,Laura Davis,8506,6.84,36.0,D,,109190.0,30.62,Fully Paid
+LN1438,Jamie Calhoun,18284,8.54,48.0,D,1-2 years,82893.0,17.43,Current
+LN1439,Jordan Booth,12253,7.48,60.0,F,3-5 years,65820.0,29.44,Fully Paid
+LN1440,Mr. Jerry Watts MD,24128,7.79,60.0,B,<1 year,96262.0,18.83,Fully Paid
+LN1441,Sean Baker,32932,17.56,48.0,,<1 year,33760.0,38.35,Fully Paid
+LN1442,James Cox,14435,9.98,60.0,A,<1 year,52190.0,38.85,Current
+LN1443,Victoria Lopez,49078,9.67,36.0,F,,97411.0,18.75,Charged Off
+LN1444,David Stone,18296,8.41,60.0,F,1-2 years,53377.0,34.9,Current
+LN1445,David Wilson,35445,14.12,,C,<1 year,76737.0,32.06,Fully Paid
+LN1446,Caleb Solis,18245,10.69,48.0,E,1-2 years,99569.0,15.85,Fully Paid
+LN1447,Michelle Ware,34124,16.16,36.0,C,10+ years,68211.0,13.12,Fully Paid
+LN1448,Teresa Choi,34899,8.08,60.0,C,10+ years,112909.0,21.04,Fully Paid
+LN1449,Patricia Thomas,48919,16.82,60.0,A,1-2 years,33744.0,32.35,Current
+LN1450,Brittany Clark,48225,14.06,60.0,D,<1 year,54995.0,38.61,Fully Paid
+LN1451,Anita Cochran,40247,6.71,48.0,A,1-2 years,46977.0,31.73,Current
+LN1452,Brandon Brown,34222,11.22,48.0,E,1-2 years,127938.0,34.93,Current
+LN1453,Kevin Barker,31211,17.95,60.0,,1-2 years,64542.0,26.11,Fully Paid
+LN1454,Jared Moreno,42220,18.84,36.0,D,3-5 years,40651.0,34.24,Charged Off
+LN1455,Daniel Ryan,31646,11.99,48.0,A,10+ years,129239.0,32.45,Fully Paid
+LN1456,Brad Russell,43649,,60.0,B,6-10 years,108931.0,18.19,Fully Paid
+LN1457,Paul Potter,28049,18.78,60.0,B,6-10 years,125344.0,24.32,Fully Paid
+LN1458,Jennifer Fields,19069,13.81,48.0,B,3-5 years,132112.0,33.17,Charged Off
+LN1459,David Morrow,37580,5.49,48.0,A,1-2 years,46715.0,6.61,Fully Paid
+LN1460,Dawn Harris,36843,18.69,48.0,F,3-5 years,74409.0,33.28,Charged Off
+LN1461,Mary Smith,7849,8.72,36.0,C,3-5 years,54306.0,11.23,Charged Off
+LN1462,Beverly Gomez,45158,13.66,36.0,B,<1 year,49086.0,23.01,Fully Paid
+LN1463,Dr. David Morgan,28289,7.48,60.0,B,10+ years,44376.0,33.29,Charged Off
+LN1464,Ebony Cervantes,49690,5.51,48.0,B,6-10 years,91350.0,13.88,Current
+LN1465,Alexis Fisher,40257,9.67,36.0,C,1-2 years,101425.0,13.6,Fully Paid
+LN1466,Brandon Willis,14823,16.71,48.0,C,6-10 years,133358.0,19.1,Fully Paid
+LN1467,Nathan Fisher,46975,9.16,60.0,F,6-10 years,66636.0,36.31,Current
+LN1468,Nicholas Johnson,14540,8.3,36.0,C,10+ years,116120.0,5.02,Fully Paid
+LN1469,Alisha Stevens,21364,8.19,36.0,F,6-10 years,144889.0,36.55,Charged Off
+LN1470,Curtis Park,9611,12.73,36.0,E,6-10 years,81649.0,10.38,Fully Paid
+LN1471,Joshua Mcdonald,32663,19.63,60.0,B,3-5 years,64610.0,39.65,Fully Paid
+LN1472,Amanda Nelson,43646,11.88,48.0,,10+ years,40058.0,38.42,Fully Paid
+LN1473,Elizabeth Greene,35977,13.36,36.0,A,<1 year,,22.31,Fully Paid
+LN1474,Melissa Johnson,34168,17.91,60.0,E,1-2 years,108033.0,22.95,Charged Off
+LN1475,Mary Hill,30471,13.03,48.0,B,6-10 years,100194.0,21.85,Fully Paid
+LN1476,Ronald Miller,27687,7.77,60.0,E,1-2 years,106917.0,27.24,Current
+LN1477,Traci Bond,5851,9.49,48.0,E,<1 year,94200.0,8.18,Current
+LN1478,Kathleen Wallace,23071,9.65,60.0,E,1-2 years,135848.0,6.14,Charged Off
+LN1479,Heather Lopez,11833,10.96,48.0,D,<1 year,,7.02,Current
+LN1480,Erica Hansen,16938,11.4,36.0,B,3-5 years,76619.0,20.55,Fully Paid
+LN1481,Suzanne Huff,40195,17.0,48.0,A,6-10 years,47154.0,14.64,Fully Paid
+LN1482,Walter Neal,31144,10.24,60.0,B,<1 year,49539.0,26.77,Current
+LN1483,Annette Rogers,9000,12.02,60.0,A,1-2 years,90058.0,39.74,Fully Paid
+LN1484,Rebecca Grant,10052,14.37,48.0,D,6-10 years,92068.0,18.52,Charged Off
+LN1485,Daniel Wilson,40506,10.67,36.0,B,3-5 years,107313.0,25.08,Fully Paid
+LN1486,Kimberly Parrish,33074,17.55,36.0,F,6-10 years,129932.0,19.55,Charged Off
+LN1487,Daniel Carroll,43155,13.81,48.0,C,<1 year,60373.0,34.65,Current
+LN1488,Rachel Price,45770,9.41,48.0,E,3-5 years,63154.0,36.58,Current
+LN1489,Christopher Wong,37320,15.71,60.0,A,1-2 years,36031.0,35.71,Current
+LN1490,John Tucker,43304,12.91,,E,3-5 years,123533.0,39.1,Current
+LN1491,Jesse Morales,8913,13.02,48.0,F,3-5 years,101975.0,5.96,Charged Off
+LN1492,Crystal Cooper,22450,12.22,36.0,C,10+ years,52785.0,34.39,Charged Off
+LN1493,Bradley Randolph,29107,12.46,48.0,C,3-5 years,108928.0,31.31,Fully Paid
+LN1494,Troy Guzman,25764,16.48,48.0,D,3-5 years,148696.0,13.0,Fully Paid
+LN1495,Stephanie Hardy,48404,6.54,36.0,A,6-10 years,58669.0,38.47,Fully Paid
+LN1496,Angela Wheeler,25491,10.02,48.0,C,1-2 years,124475.0,10.19,Current
+LN1497,Anthony Cooley,43494,6.13,48.0,B,6-10 years,147154.0,28.78,Fully Paid
+LN1498,Timothy Love,8373,16.3,60.0,,6-10 years,32282.0,12.87,Charged Off
+LN1499,Karen Hensley,17161,9.08,48.0,B,<1 year,64624.0,20.1,Charged Off
