@@ -53,7 +53,6 @@ Clone this repository or download the files.
 Navigate to the project folder and start the Streamlit app:
 
 ```
-cd D:\Loan_Analytics_Dashboard
 streamlit run Loan_Analytics_Dashboard.py
 ```
 
@@ -66,9 +65,9 @@ The dashboard will open in your default browser at `http://localhost:8501`.
 ```
 Loan_Analytics_Dashboard/
 ├── Loan_Analytics_Dashboard.py   # Main Streamlit app
-├── generate_loan_data.py         # Sample data generator (optional)
+├── generate_loan_data.py         # Sample data generator 
 ├── test_Y3wMUE5_7gLdaTN.csv      # Default sample dataset
-└── README.md                     # This file
+└── README.md                     
 ```
 
 ---
