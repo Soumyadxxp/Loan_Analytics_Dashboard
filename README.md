@@ -33,7 +33,7 @@ Clone this repository or download the files.
 1. Install dependencies (preferably in a virtual environment):
 
    ```
-   pip install streamlit pandas plotly faker Pandas
+   pip install streamlit pandas plotly faker pandas
    ```
 
    Note: `faker` is only required if you want to generate the sample CSV.
