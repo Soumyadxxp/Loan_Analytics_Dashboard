@@ -2,6 +2,19 @@
 
 An interactive dashboard built with Streamlit and Plotly to explore, clean, and visualize loan data.  
 Perfect for quick exploratory data analysis (EDA) on loan portfolios.
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/3ecfcf91-5c20-4325-a8a8-594d5dc6c7cd" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/b3ad3271-a34e-4ed5-bf8d-5e36b6d1f212" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/dfb1a5c3-9112-4397-959b-b1353580bc6d" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/e2e5c21a-2602-4d78-808a-f1a3276881f1" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/f37debe4-39b1-425b-8ec8-ac99fb3f61fb" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/c04432f9-2af5-4262-9952-833712326978" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/cdfafe9c-ece9-4248-9729-cc124aa93985" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/58ed1570-af55-4bbf-9270-3100dbdeeb0a" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/73af9ca3-5bc1-4828-b473-317a77cc142a" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/64c656fd-16e2-43b6-8188-8e337e608c0c" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/f642fcf1-9d3a-4dc1-82c5-1275d6d0fd36" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/4e185049-fe07-4d48-b822-af892d832c5f" />
+<img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/a990f1a2-9a6d-40cc-a979-7f0379261412" />
 
 ---
 
