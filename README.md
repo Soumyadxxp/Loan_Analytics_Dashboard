@@ -1,6 +1,6 @@
 # Interactive Loan Analytics Dashboard
 
-An interactive dashboard built with Streamlit and Plotly to explore, clean, and visualize loan data.  
+An interactive dashboard built with Streamlit and Plotly to explore, clean, and visualize loan data.    
 Perfect for quick exploratory data analysis (EDA) on loan portfolios.
 <img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/3ecfcf91-5c20-4325-a8a8-594d5dc6c7cd" />
 <img width="1600" height="1112" alt="image" src="https://github.com/user-attachments/assets/b3ad3271-a34e-4ed5-bf8d-5e36b6d1f212" />
